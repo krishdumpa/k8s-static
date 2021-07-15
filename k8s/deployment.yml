@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: static
-        image: 060920346106.dkr.ecr.us-east-2.amazonaws.com/k8s-static:number
+        image: 862982157705.dkr.ecr.us-east-2.amazonaws.com/k8s-static:number
         ports:
         - containerPort: 80
